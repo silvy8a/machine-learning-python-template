@@ -1,4 +1,4 @@
 __pycache__
 .env
 .learn
-processed/
+data/processed/
